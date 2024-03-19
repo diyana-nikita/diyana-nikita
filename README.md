@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ### Hi i am NIKITA 😎 🥰  
 
-<h1 align="center">🍁 Welcome To My Profile 🍁</h1>
-<h3 align="center">A Beginner level programmer  from Bangladesh , Asia!!🥸</h3>
+<h1 align="center"> Welcome To My Profile </h1>
+
      
 
 <img  align="left" width="50%"  src = "https://github-readme-stats.vercel.app/api?username=diyana-nikita&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
