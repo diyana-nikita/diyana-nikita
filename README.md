@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi i am NIKITA 😎 🥰  
+🚩🔕🚭🔇🚩
+<h1 align="center">🍁 Welcome To My Profile 🍁</h1>
+<h3 align="center">A Beginner level programmer  from Bangladesh , Asia!!🥸</h3>
+     
+
+<img  align="left" width="50%"  src = "https://github-readme-stats.vercel.app/api?username=diyana-nikita&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ <img  align="left" width ="35%"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=diyana-nikita&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10" /> 
+
+<p align="center" align="left" > <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=diyana-nikita&" alt="diyana-nikita" /> </p>
