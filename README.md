@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi i am NIKITA 😎 🥰  
-🚩🔕🚭🔇🚩
+
 <h1 align="center">🍁 Welcome To My Profile 🍁</h1>
 <h3 align="center">A Beginner level programmer  from Bangladesh , Asia!!🥸</h3>
      
